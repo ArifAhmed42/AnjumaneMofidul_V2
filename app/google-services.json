@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312565142075",
+    "firebase_url": "https://anjumanemofidulv2.firebaseio.com",
+    "project_id": "anjumanemofidulv2",
+    "storage_bucket": "anjumanemofidulv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312565142075:android:107af65ba4716119",
+        "android_client_info": {
+          "package_name": "com.example.arif.anjumanemofidul_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312565142075-ulp0k6sga23lb2d4tfsggt8um9b3sks5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arif.anjumanemofidul_v2",
+            "certificate_hash": "83c4d44e6c8fdaeb10e7dcc0dfa319c106088005"
+          }
+        },
+        {
+          "client_id": "312565142075-2p3piira118qesqafdrvg8i5a58fpv8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJv7Gbpdzl-dwtHcDqmMW2yV80WVbcnys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312565142075-2p3piira118qesqafdrvg8i5a58fpv8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
